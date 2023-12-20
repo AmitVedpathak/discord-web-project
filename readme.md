@@ -8,7 +8,7 @@ This project is a static web page created to mimic the appearance and layout of 
 
 ## Demo
 
-[Live Demo]()
+[Live Demo](https://amitv-discord-clone.netlify.app/)
 
 ## Features
 
