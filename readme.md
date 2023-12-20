@@ -1,4 +1,4 @@
-# Gmail Clone
+# Discord Clone
 
 A simple static web page project that replicates the Discord interface.
 
